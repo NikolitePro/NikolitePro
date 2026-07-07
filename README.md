@@ -1,4 +1,10 @@
-## Hi there 👋
+<h2>Hi, I am a certified garbage programmer, but I sure ain't a vibe coder! 👋</h2>
+
+<b><ins>What I'm good at</ins>:</b> I'll get back to ya on that
+
+<b><ins>What I'm bad at</ins>:</b> everything
+
+Uhm, yeah, that's it. 
 
 <!--
 **NikolitePro/NikolitePro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
