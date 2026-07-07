@@ -9,7 +9,7 @@ Uhm, yeah, that's it.
 <table>
   <tr>
     <!-- Image 1: -->
-    <td width="12.5%" align="center"><img src="[Nyaruko](https://cdn.myanimelist.net/images/characters/2/217623.jpg)"/><br/>
+    <td width="12.5%" align="center"><img src="130281.jpg"/><br/>
       <sub>
         <b>Line 1 Text</b><br/>
         Line 2 Text
