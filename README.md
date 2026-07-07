@@ -4,22 +4,22 @@
 
 <b><ins>What I'm bad at</ins>:</b> everything
 
-Uhm, yeah, that's it.
+<h3>Favorite anime characters</h3>
 
 <table>
   <tr>
     <!-- Image 1: -->
     <td width="12.5%" align="center"><img src="130281.jpg"/><br/>
       <sub>
-        <b>Line 1 Text</b><br/>
-        Line 2 Text
+        <b>Fear Kubrick</b><br/>
+        C<sup>3</sup> (2011)
       </sub>
     </td>
     <!-- Image 2: -->
-    <td width="12.5%" align="center"><img src="URL_2"/><br/>
+    <td width="12.5%" align="center"><img src="https://cdn.myanimelist.net/images/characters/8/101419.jpg"/><br/>
       <sub>
-        <b>Line 1 Text</b><br/>
-        Line 2 Text
+        <b>Kirino Kousaka</b><br/>
+        Oreimo (2010)
       </sub>
     </td>
     <!-- Image 3: -->
