@@ -10,9 +10,7 @@
     <td width="12.5%" align="center"><img src="130281.jpg" width="225"/><br/>
       <sub>
         <b>Fear Kubrick</b><br/>
-        C<sup>3</sup>
-        
-        (2011)
+        C<sup>3</sup> (2011)
       </sub>
     </td>
     <td width="12.5%" align="center"><img src="101419.jpg" width="225"/><br/>
