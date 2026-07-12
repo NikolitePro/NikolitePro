@@ -25,10 +25,10 @@
         Kawaii dake ja Nai Shikimori-san (2022)
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="URL_4" width="225"/><br/>
+    <td width="12.5%" align="center"><img src="318652.jpg" width="225"/><br/>
       <sub>
-        <b>Line 1 Text</b><br/>
-        Line 2 Text
+        <b>Chiya</b><br/>
+        Urara Meirochou (2017)
       </sub>
     </td>
     <td width="12.5%" align="center"><img src="URL_5" width="225"/><br/>
@@ -43,10 +43,10 @@
         Line 2 Text
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="URL_7" width="225"/><br/>
+    <td width="12.5%" align="center"><img src="557260.jpg" width="225"/><br/>
       <sub>
-        <b>Line 1 Text</b><br/>
-        Line 2 Text
+        <b>Yuki-Onna</b><br/>
+        Kyokou Suiri (2023)
       </sub>
     </td>
     <td width="12.5%" align="center"><img src="217623.jpg" width="225"/><br/>
@@ -61,52 +61,52 @@
 <h3>Favorite Honkai: Star Rail characters</h3>
 <table>
   <tr>
-    <td width="12.5%" align="center"><img src="130281.jpg" width="225"/><br/>
+    <td width="12.5%" align="center"><img src="" width="225"/><br/>
       <sub>
-        <b>Fear Kubrick</b><br/>
-        C<sup>3</sup> (2011)
+        <b>WIP</b><br/>
+        WIP
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="101419.jpg" width="225"/><br/>
+    <td width="12.5%" align="center"><img src="" width="225"/><br/>
       <sub>
-        <b>Kirino Kousaka</b><br/>
-        Oreimo (2010)
+        <b>WIP</b><br/>
+        WIP
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="458966.jpg" width="225"/><br/>
+    <td width="12.5%" align="center"><img src="" width="225"/><br/>
       <sub>
-        <b>Shikimori</b><br/>
-        Kawaii dake ja Nai Shikimori-san (2022)
+        <b>WIP</b><br/>
+        WIP
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="URL_4" width="225"/><br/>
+    <td width="12.5%" align="center"><img src="" width="225"/><br/>
       <sub>
-        <b>Line 1 Text</b><br/>
-        Line 2 Text
+        <b>WIP</b><br/>
+        WIP
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="URL_5" width="225"/><br/>
+    <td width="12.5%" align="center"><img src="" width="225"/><br/>
       <sub>
-        <b>Line 1 Text</b><br/>
-        Line 2 Text
+        <b>WIP</b><br/>
+        WIP
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="URL_6" width="225"/><br/>
+    <td width="12.5%" align="center"><img src="" width="225"/><br/>
       <sub>
-        <b>Line 1 Text</b><br/>
-        Line 2 Text
+        <b>WIP</b><br/>
+        WIP
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="URL_7" width="225"/><br/>
+    <td width="12.5%" align="center"><img src="" width="225"/><br/>
       <sub>
-        <b>Line 1 Text</b><br/>
-        Line 2 Text
+        <b>WIP</b><br/>
+        WIP
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="217623.jpg" width="225"/><br/>
+    <td width="12.5%" align="center"><img src="" width="225"/><br/>
       <sub>
-        <b>Nyaruko</b><br/>
-        Haiyore! Nyaruko-san (2012)
+        <b>WIP</b><br/>
+        WIP
       </sub>
     </td>
   </tr>
