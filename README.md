@@ -182,7 +182,7 @@
       </a>
       <sub>
         <b>Under the Blue Sky</b><br/>
-        ...<br/>
+        [Two happy sisters were in the field]<br/>
         That was when they were still the same height.<br/>
         That was when they shared the same smile.<br/>
       </sub>
@@ -193,7 +193,7 @@
       </a>
       <sub>
         <b>Planetary Rendezvous</b><br/>
-        ...<br/>
+        [Whilst anxious about this far journey]<br/>
         All she knew was that she could at long last be rid of<br/>
         the judgmental eyes and petty bickering of her family.
       </sub>
