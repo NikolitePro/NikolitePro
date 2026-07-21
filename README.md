@@ -159,8 +159,8 @@
       <sub>
         <b>Whereabouts Should Dreams Rest</b><br/>
         In the deathly silence, like flames dissolving in the sea,<br/>
-        she is reduced to a singular spot of fire and unendingly<br/>
-        progresses towards the light...
+        she is reduced to a singular spot of fire and<br/>
+        unendingly progresses towards the light...
       </sub>
     </td>
     <td width="33.33%" align="center">
@@ -205,8 +205,8 @@
       <sub>
         <b>Dance at Sunset</b><br/>
         Amidst a rising galaxy of stars, her unguarded smile<br/>
-        dissolves into a bloom of innocence, akin to the layered<br/>
-        twilight hues adrift in the sky.
+        dissolves into a bloom of innocence, akin to the<br/>
+        layered twilight hues adrift in the sky.
       </sub>
     </td>
   </tr>
