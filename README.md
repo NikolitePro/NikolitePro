@@ -58,28 +58,40 @@
   </tr>
 </table>
 
-<h3>Favorite Honkai: Star Rail characters</h3>
+<h3 align="center">Favorite Honkai: Star Rail Characters</h3><hr>
 <table>
   <tr>
-    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/evanescia_card.webp"/><br/>
+    <td width="25%" align="center">
+      <a href="https://honkai-star-rail.fandom.com/wiki/Evanescia">
+        <img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/evanescia_card.webp"/><br/>
+      </a>
       <sub>
         <b>Evanescia</b><br/>
         Path of Elation
       </sub>
     </td>
-    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/firefly_card.webp"/><br/>
+    <td width="25%" align="center">
+      <a href="https://honkai-star-rail.fandom.com/wiki/Firefly">
+        <img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/firefly_card.webp"/><br/>
+      </a>
       <sub>
         <b>Firefly</b><br/>
         Path of Destruction
       </sub>
     </td>
-    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/the-herta_card.webp"/><br/>
+    <td width="25%" align="center">
+      <a href="https://honkai-star-rail.fandom.com/wiki/The_Herta">
+        <img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/the-herta_card.webp"/><br/>
+      </a>
       <sub>
         <b>Madam Herta</b><br/>
         Path of Erudition
       </sub>
     </td>
-    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/lingsha_card.webp"/><br/>
+    <td width="25%" align="center">
+      <a href="https://honkai-star-rail.fandom.com/wiki/Lingsha">
+        <img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/lingsha_card.webp"/><br/>
+      </a>
       <sub>
         <b>Lingsha</b><br/>
         Path of Abundance
@@ -87,25 +99,37 @@
     </td>
   </tr>
   <tr>
-    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/hysilens_card.webp"/><br/>
+    <td width="25%" align="center">
+      <a href="https://honkai-star-rail.fandom.com/wiki/Hysilens">
+        <img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/hysilens_card.webp"/><br/>
+      </a>
       <sub>
         <b>Hysilens</b><br/>
         Path of Nihility
       </sub>
     </td>
-    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/seele_card.webp"/><br/>
+    <td width="25%" align="center">
+      <a href="https://honkai-star-rail.fandom.com/wiki/Seele">
+        <img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/seele_card.webp"/><br/>
+      </a>
       <sub>
         <b>Seele</b><br/>
         Path of Hunt
       </sub>
     </td>
-    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/guinaifen_card.webp"/><br/>
+    <td width="25%" align="center">
+      <a href="https://honkai-star-rail.fandom.com/wiki/Guinaifen">
+        <img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/guinaifen_card.webp"/><br/>
+      </a>
       <sub>
         <b>Guinaifen</b><br/>
         Path of Nihility
       </sub>
     </td>
-    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/march-7th-swordmaster_card.webp"/><br/>
+    <td width="25%" align="center">
+      <a href="https://honkai-star-rail.fandom.com/wiki/March_7th/The_Hunt">
+        <img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/march-7th-swordmaster_card.webp"/><br/>
+      </a>
       <sub>
         <b>March 7th • The Hunt</b><br/>
         Path of Nihility
