@@ -61,52 +61,54 @@
 <h3>Favorite Honkai: Star Rail characters</h3>
 <table>
   <tr>
-    <td width="12.5%" align="center"><img src="" width="225"/><br/>
+    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/evanescia_card.webp"/><br/>
       <sub>
-        <b>WIP</b><br/>
-        WIP
+        <b>Evanescia</b><br/>
+        Path of Elation
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="" width="225"/><br/>
+    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/firefly_card.webp"/><br/>
       <sub>
-        <b>WIP</b><br/>
-        WIP
+        <b>Firefly</b><br/>
+        Path of Destruction
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="" width="225"/><br/>
+    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/the-herta_card.webp"/><br/>
       <sub>
-        <b>WIP</b><br/>
-        WIP
+        <b>Madam Herta</b><br/>
+        Path of Erudition
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="" width="225"/><br/>
+    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/lingsha_card.webp"/><br/>
       <sub>
-        <b>WIP</b><br/>
-        WIP
+        <b>Lingsha</b><br/>
+        Path of Abundance
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="" width="225"/><br/>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/hysilens_card.webp"/><br/>
       <sub>
-        <b>WIP</b><br/>
-        WIP
+        <b>Hysilens</b><br/>
+        Path of Nihility
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="" width="225"/><br/>
+    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/seele_card.webp"/><br/>
       <sub>
-        <b>WIP</b><br/>
-        WIP
+        <b>Seele</b><br/>
+        Path of Hunt
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="" width="225"/><br/>
+    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/guinaifen_card.webp"/><br/>
       <sub>
-        <b>WIP</b><br/>
-        WIP
+        <b>Guinaifen</b><br/>
+        Path of Nihility
       </sub>
     </td>
-    <td width="12.5%" align="center"><img src="" width="225"/><br/>
+    <td width="25%" align="center"><img src="https://cdn.prydwen.gg/images/honkai-star-rail/characters/march-7th-swordmaster_card.webp"/><br/>
       <sub>
-        <b>WIP</b><br/>
-        WIP
+        <b>March 7th • The Hunt</b><br/>
+        Path of Nihility
       </sub>
     </td>
   </tr>
