@@ -182,7 +182,7 @@
       </a>
       <sub>
         <b>Under the Blue Sky</b><br/>
-        [Two happy sisters were in the field]<br/>
+        [Two happy sisters were playing in the field]<br/>
         That was when they were still the same height.<br/>
         That was when they shared the same smile.<br/>
       </sub>
