@@ -132,7 +132,7 @@
       </a>
       <sub>
         <b>March 7th • The Hunt</b><br/>
-        Path of Nihility
+        Path of Hunt
       </sub>
     </td>
   </tr>
